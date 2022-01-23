@@ -1,4 +1,7 @@
 # node-react-starter
+
+[![gitguardian](https://github.com/STH-Coders/node-react-starter/actions/workflows/gitguardian.yml/badge.svg?branch=master)](https://github.com/STH-Coders/node-react-starter/actions/workflows/gitguardian.yml)
+
 A simple fullstack starter application using Node.js, Express.js, React.js and MongoDB
 
 To run this project you need to add the backend and frontend dependencies.
