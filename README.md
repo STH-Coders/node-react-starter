@@ -1,6 +1,6 @@
 # node-react-starter
 
-[![gitguardian](https://github.com/STH-Coders/node-react-starter/actions/workflows/gitguardian.yml/badge.svg?branch=master)](https://github.com/STH-Coders/node-react-starter/actions/workflows/gitguardian.yml)
+[![gitguardian](https://github.com/STH-Coders/node-react-starter/actions/workflows/gitguardian.yml/badge.svg?branch=master&event=push)](https://github.com/STH-Coders/node-react-starter/actions/workflows/gitguardian.yml)
 
 A simple fullstack starter application using Node.js, Express.js, React.js and MongoDB
 
